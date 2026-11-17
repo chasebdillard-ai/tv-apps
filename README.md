@@ -1,2 +1,0 @@
-# tv-apps
-tv-apps
